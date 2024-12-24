@@ -8,4 +8,5 @@
 # 其他大佬的博客推荐
 - [啥都有](https://github.com/GJXAIOU/Notes)
 - [啥都有2](http://www.cyc2018.xyz/#%E7%AE%97%E6%B3%95)
+- [啥都有3](https://github.com/Snailclimb/JavaGuide)
 - [算法相关](https://labuladong.online/algo/essential-technique/algorithm-summary/)
