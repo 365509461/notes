@@ -1,6 +1,10 @@
 # 笔记分享
 
-- [历史知识点] (面试知识点.md)
+- [知识点](./knowledge_point.md)
+- [面试题总结](./interview_question.md)
+- [部分面试经历](./interview_exp.md)
+- [上岸分享](./interview_succ_share.md)
+
 
 # 按照算法思想分类
 
